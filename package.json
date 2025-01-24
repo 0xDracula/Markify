@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "markifier",
+  "version": "1.0.0"
+}
